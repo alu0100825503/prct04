@@ -1,0 +1,3 @@
+¿Qué es RVM (Ruby Version Manager)? Ruby Version Manager, comúnmente abreviado como RVM, 
+es una plataforma software para sistemas basados en UNIX diseñado para administrar múltiples
+instalaciones de Ruby en la misma máquina.
