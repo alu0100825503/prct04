@@ -6,3 +6,7 @@ instalaciones de Ruby en la misma máquina.
 Con el intérprete de Ruby se ha de especificar el fichero que contiene el código fuente en Ruby 
 que se desea ejecutar, mientras que con el intérprete interactivo se pueden introducir las 
 sentencias que se quieren ejecutar desde el 'prompt'.
+
+¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete 
+interactivo y con PRY?
+Con PRY, se muestran más detalles a cerca de la ejecución del programa.
